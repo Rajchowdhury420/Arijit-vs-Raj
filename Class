@@ -5,3 +5,7 @@
             print("ID: %d \nName: %s"%(self.id,self.name))  
     emp = Employee()  
     emp.display()  
+
+'''
+Happy coding !!
+'''
