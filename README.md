@@ -1,5 +1,5 @@
-# Arijit-vs-Raj
+# Python Tutorial
 
 
 
- ![myimage-alt-tag](https://files.realpython.com/media/Working-With-JSON-Data-in-Python_Watermarked.66a8fdcb8859.jpg)
+ ![myimage-alt-tag](https://files.realpython.com/media/python-youtube-channels.f8f0ff39fe05.jpg)
