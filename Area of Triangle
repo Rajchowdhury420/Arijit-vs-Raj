@@ -13,3 +13,6 @@ print('The area of the triangle is %0.2f' %area)
 '''
 Happy Coding !!
 '''
+
+
+
