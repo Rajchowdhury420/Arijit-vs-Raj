@@ -17,5 +17,3 @@ if __name__ == '__main__':
     add_encryption(input_pdf='reportlab-sample.pdf',
                    output_pdf='reportlab-encrypted.pdf',
                    password='twofish')
-
- 
