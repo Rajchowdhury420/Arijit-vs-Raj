@@ -18,5 +18,4 @@ if __name__ == '__main__':
                    output_pdf='reportlab-encrypted.pdf',
                    password='twofish')
 
-    
-    
+   
