@@ -1,5 +1,4 @@
 from PyPDF2 import PdfFileWriter, PdfFileReader
-
 def add_encryption(input_pdf, output_pdf, password):
     pdf_writer = PdfFileWriter()
     pdf_reader = PdfFileReader(input_pdf)
