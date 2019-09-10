@@ -8,7 +8,7 @@
     emp2 = Employee("David",102)  
       
     #accessing display() method to print employee 1 information  
-       
+    
     emp1.display();   
       
     #accessing display() method to print employee 2 information  
