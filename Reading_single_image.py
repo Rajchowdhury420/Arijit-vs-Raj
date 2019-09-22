@@ -9,4 +9,3 @@ def read_single_disk(image_id):
         label = int(next(reader)[0])
 
     return image, label
-
