@@ -6,4 +6,4 @@
     emp = Employee()  
     emp.display()  
 
-#Happy coding
+# Happy coding
