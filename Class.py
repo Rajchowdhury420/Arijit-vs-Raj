@@ -1,4 +1,11 @@
-    class Employee:  
+
+for x in range(0,21):
+    print(x)
+
+
+
+
+class Employee:  
         id = 10;  
         name = "John"  
         def display (self):  
